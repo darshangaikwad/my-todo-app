@@ -1,4 +1,4 @@
-# Todo Application using ReactJS and Firebase
+# MyTodo Application using ReactJS and Firebase
 
 ---
 
